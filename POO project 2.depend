@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1618348029 source:c:\users\joe\documents\c++\poo project 2\src\nod.cpp
+	"Nod.h"
+
+1618348064 c:\users\joe\documents\c++\poo project 2\include\nod.h
+
+1618348198 source:c:\users\joe\documents\c++\poo project 2\src\nod_dublu.cpp
+	"Nod_dublu.h"
+	<iostream>
+
+1618346194 c:\users\joe\documents\c++\poo project 2\include\nod_dublu.h
+	<Nod.h>
+
+1618348508 source:c:\users\joe\documents\c++\poo project 2\main.cpp
+	<iostream>
+	<Lista_circulara.h>
+
+1618347588 c:\users\joe\documents\c++\poo project 2\include\lista_circulara.h
+	<Nod_dublu.h>
+	<Lista.h>
+
+1618348585 c:\users\joe\documents\c++\poo project 2\include\lista.h
+	<Nod_dublu.h>
+	<iostream>
+
+1618348598 source:c:\users\joe\documents\c++\poo project 2\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1618348325 source:c:\users\joe\documents\c++\poo project 2\src\lista_circulara.cpp
+	"Lista_circulara.h"
+	<Nod_dublu.h>
+	<iostream>
+
